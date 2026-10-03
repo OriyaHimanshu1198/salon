@@ -1,0 +1,6 @@
+{
+  "name": "Aura Suite - Salon OS",
+  "description": "Next-generation luxury salon operating system. Daily dispatch scheduling, client engine & formula cards, express checkout POS with terminal integration, stylist station management, protocol catalog, and loyalty campaigns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
